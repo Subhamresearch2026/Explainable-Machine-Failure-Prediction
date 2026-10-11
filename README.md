@@ -1,10 +1,9 @@
 # Data-Driven Maintenance Prioritisation using Machine Performance and Health Data
 
-This repository contains the executable implementation used for the UC-17717 MSc thesis project on explainable and capacity-aware predictive maintenance using the **AI4I 2020 Predictive Maintenance Dataset**.
+This repository contains the executable implementation used for the thesis project on explainable and capacity-aware predictive maintenance using the **AI4I 2020 Predictive Maintenance Dataset**.
 
 The implementation is centred on the notebook:
 
-`UC_17717_updated.ipynb`
 
 The workflow covers dataset auditing, leakage-safe feature preparation, baseline modelling, imbalance-aware model screening, stratified cross-validation, hyperparameter optimisation, probability-threshold selection, calibration assessment, bootstrap uncertainty estimation, SHAP explainability, maintenance-priority construction, and an interactive Plotly dashboard.
 
